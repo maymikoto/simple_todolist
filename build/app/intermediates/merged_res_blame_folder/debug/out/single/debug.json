@@ -1,90 +1,90 @@
 [
     {
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
         "merged": "com.example.noteapp-merged_res-11:/mipmap-mdpi_logo.png.flat",
         "source": "com.example.noteapp-main-5:/mipmap-mdpi/logo.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "com.example.noteapp-merged_res-11:/drawable_launch_background.xml.flat",
+        "source": "com.example.noteapp-main-5:/drawable/launch_background.xml"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
         "merged": "com.example.noteapp-merged_res-11:/mipmap-xxhdpi_logo.png.flat",
         "source": "com.example.noteapp-main-5:/mipmap-xxhdpi/logo.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-xhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "com.example.noteapp-merged_res-11:/mipmap-xhdpi_logo.png.flat",
         "source": "com.example.noteapp-main-5:/mipmap-xhdpi/logo.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-xhdpi/ic_launcher.png"
     },
     {
         "merged": "com.example.noteapp-merged_res-11:/mipmap-xxxhdpi_logo.png.flat",
         "source": "com.example.noteapp-main-5:/mipmap-xxxhdpi/logo.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-xhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\drawable-v21_launch_background.xml.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\drawable-v21\\launch_background.xml"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "com.example.noteapp-merged_res-11:/mipmap-hdpi_logo.png.flat",
         "source": "com.example.noteapp-main-5:/mipmap-hdpi/logo.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\drawable_launch_background.xml.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\drawable\\launch_background.xml"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "com.example.noteapp-merged_res-11:/drawable-v21_launch_background.xml.flat",
+        "source": "com.example.noteapp-main-5:/drawable-v21/launch_background.xml"
     },
     {
-        "merged": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-merged_res-11:\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\may_k\\.gradle\\daemon\\7.5\\com.example.noteapp-main-5:\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.noteapp-merged_res-11:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.noteapp-main-5:/mipmap-hdpi/ic_launcher_round.png"
     }
 ]
