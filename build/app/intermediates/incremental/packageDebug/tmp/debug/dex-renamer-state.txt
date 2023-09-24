@@ -1,0 +1,4 @@
+#Sat Sep 23 20:42:40 ICT 2023
+base.0=D\:\\intern_project\\noteapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
